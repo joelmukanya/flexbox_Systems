@@ -1,0 +1,19 @@
+/* container */
+[class *="container"] {
+    background-color: darkcyan;
+}
+/* Col */
+[class *="aside"] {
+    background-color: rgb(95, 89, 73);
+    color: white;
+    height: 100vh;
+    width: 20%;
+    left: 0;
+}
+
+[class *="center"] {
+    z-index: -1;
+    margin-left: 20%;
+}
+
+
